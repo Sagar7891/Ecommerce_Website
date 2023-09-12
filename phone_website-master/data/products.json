@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Hair comb",
+            "image": "./images/products/hair/hair_1.jpg",
+            "price": 760,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Hair Repair Oil",
+            "image": "./images/products/hair/hair_2.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Face Cream",
+            "image": "./images/products/face/face_1.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Hair Serum",
+            "image": "./images/products/hair/hair_3.jpg",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Herbal Shampoo",
+            "image": "./images/products/hair/hair_4.jpg",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Shampoo",
+            "image": "./images/products/hair/hair_5.jpg",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Hair Mask",
+            "image": "./images/products/hair/hair_6.jpg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Charcoal Mask",
+            "image": "./images/products/face/face_2.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Sun Protect",
+            "image": "./images/products/face/face_3.jpg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Hair comb",
+            "image": "./images/products/hair/hair_1.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Hair Repair Oil",
+            "image": "./images/products/hair/hair_2.jpg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Hair Repair Oil",
+            "image": "./images/products/hair/hair_2.jpg",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Hair Serum",
+            "image": "./images/products/hair/hair_3.jpg",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Hair Serum",
+            "image": "./images/products/hair/hair_3.jpg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Charcoal Mask",
+            "image": "./images/products/face/face_2.jpg",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Sun Protect",
+            "image": "./images/products/face/face_3.jpg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Sun Protect",
+            "image": "./images/products/face/face_3.jpg",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Charcoal Mask",
+            "image": "./images/products/face/face_2.jpg",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Face Cream",
+            "image": "./images/products/face/face_1.jpg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Face Cream",
+            "image": "./images/products/face/face_1.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Hair Serum",
+            "image": "./images/products/hair/hair_3.jpg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Herbal Shampoo",
+            "image": "./images/products/hair/hair_4.jpg",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Herbal Shampoo",
+            "image": "./images/products/hair/hair_4.jpg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Face Cream",
+            "image": "./images/products/face/face_1.jpg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Sun Protect",
+            "image": "./images/products/face/face_3.jpg",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
